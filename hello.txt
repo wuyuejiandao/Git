@@ -13,3 +13,4 @@ hello guigu  aaaa cannot yyp TT
 hello guigu  aaaa cannot yyp TT
 success haha
 ssh pull
+push test ssh
